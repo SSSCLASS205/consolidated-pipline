@@ -1,4 +1,4 @@
-#Consolidated Data Pipeline (FMCG Domain)
+### Consolidated Data Pipeline (FMCG Domain)
 
 - An end-to-end data engineering project that simulates a real-world FMCG scenario where a large retail company acquires a smaller one. This pipeline consolidates data from both organizations into a unified lakehouse architecture.
 
